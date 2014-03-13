@@ -1,5 +1,3 @@
 this is my first text file
 
 second changes
-
-commit and remove this commit
